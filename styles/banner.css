@@ -1,0 +1,15 @@
+#banner	{
+	height: 70vh;
+	background-image: url("../images/banner.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#banner h1 {
+	text-shadow: 3px 3px black;
+}
